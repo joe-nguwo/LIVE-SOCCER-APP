@@ -17,5 +17,17 @@ THIS IS A LIVE-SOCCER-APP IN SVELTE 5
 - TYPESCRIPT
 - SHADCN COMPONENTS
 - TAILWIND CSS
+- LIVE API
+
+### Prerequisites
+
+- Node.js 20+
+- Git
+- TEXT EDITOR(E.G VSCODE)
+
+### Installation
+- CLONE THE REPO i.e GIT CLONE https://github.com/joe-nguwo/LIVE-SOCCER-APP.git
+- RUN NPM INSTALL
+- CD LIVE-SOCCER-APP
 
 

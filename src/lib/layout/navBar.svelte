@@ -1,4 +1,3 @@
-<!-- navbar.svelte -->
 <script lang="ts">
 	import {
 		Root,
@@ -10,17 +9,17 @@
 	import { Link } from "svelte-routing";
 </script>
 
-<Root class="w-full max-w-none bg-slate-900 text-white px-60 py-2">
-	<List class="flex w-full flex-row justify-between items-center">
+<Root class="w-full max-w-none bg-slate-900 text-white px-6 py-4">
+	<List class="flex w-full flex-row justify-center items-center gap-x-8">
 		<Item>
 			<NavigationMenuLink>
-				<Link to="#">LATEST RESULTS</Link>
+				<Link to="/">LATEST RESULTS</Link>
 			</NavigationMenuLink>
 		</Item>
 
 		<Item>
 			<NavigationMenuLink>
-				<Link to="#">FIXTURES</Link>
+				<Link to="/fixtures">FIXTURES</Link>
 			</NavigationMenuLink>
 		</Item>
 

@@ -1,8 +1,9 @@
 
 export const Routes = {
-    letastResults:"#",
-    fixtures:"#",
-    standing:"#",
+    liveScore:"/football-current-live",
+    latestResults:"/football-popular-leagues",
+    fixtures:"/football-get-matches-by-date",
+    standing:"/football-get-standing-all"
     
 }
 
